@@ -8,9 +8,9 @@ and I write about what I learn doing it at
 ## Latest articles
 
 <!-- articles:start -->
+- [Comparing Three LLMs Across Hindsight&apos;s Memory Operations](https://feniix-hq.net/blog/hindsight-llm-comparison/)
 - [Recall, Reflect, and the Knowledge Page](https://feniix-hq.net/blog/recall-reflect-and-the-knowledge-page/)
 - [The Timeout That Never Timed Out](https://feniix-hq.net/blog/the-timeout-that-never-timed-out/)
-- [The Trace Is Not the Wire](https://feniix-hq.net/blog/the-trace-is-not-the-wire/)
 <!-- articles:end -->
 
 All articles: [feniix-hq.net/blog](https://feniix-hq.net/blog/) ·
