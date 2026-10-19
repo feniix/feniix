@@ -31,9 +31,9 @@ Recent and past upstream contributions:
 #### Latest articles
 
 <!-- articles:start -->
+- [Ranking a Backlog with Jev](https://feniix-hq.net/blog/ranking-a-backlog-with-jev/)
 - [Comparing Three LLMs Across Hindsight&apos;s Memory Operations](https://feniix-hq.net/blog/hindsight-llm-comparison/)
 - [Recall, Reflect, and the Knowledge Page](https://feniix-hq.net/blog/recall-reflect-and-the-knowledge-page/)
-- [The Timeout That Never Timed Out](https://feniix-hq.net/blog/the-timeout-that-never-timed-out/)
 <!-- articles:end -->
 
 All articles: [feniix-hq.net/blog](https://feniix-hq.net/blog/) ·
