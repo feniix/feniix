@@ -31,9 +31,9 @@ Recent and past upstream contributions:
 #### Latest articles
 
 <!-- articles:start -->
+- [Fix the Query Before the Reranker](https://feniix-hq.net/blog/fix-the-query-before-the-reranker/)
+- [Going Back to Hindsight&apos;s Default Reranker](https://feniix-hq.net/blog/back-to-the-default-reranker/)
 - [Ranking a Backlog with Jev](https://feniix-hq.net/blog/ranking-a-backlog-with-jev/)
-- [Comparing Three LLMs Across Hindsight&apos;s Memory Operations](https://feniix-hq.net/blog/hindsight-llm-comparison/)
-- [Recall, Reflect, and the Knowledge Page](https://feniix-hq.net/blog/recall-reflect-and-the-knowledge-page/)
 <!-- articles:end -->
 
 All articles: [feniix-hq.net/blog](https://feniix-hq.net/blog/) ·
