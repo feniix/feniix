@@ -14,6 +14,7 @@ agent memory. I write about that work at [feniix-hq.net](https://feniix-hq.net).
 - **[pi-extensions](https://github.com/feniix/pi-extensions)** [![GitHub stars](https://img.shields.io/github/stars/feniix/pi-extensions?style=flat&color=gold)](https://github.com/feniix/pi-extensions) - Extensions, tools, and integrations for the pi coding agent.
 - **[worktrees-core](https://github.com/feniix/worktrees-core)** [![GitHub stars](https://img.shields.io/github/stars/feniix/worktrees-core?style=flat&color=gold)](https://github.com/feniix/worktrees-core) - TypeScript primitives for plan-first Git worktree automation.
 - **[hindsight-llm-bench](https://github.com/feniix/hindsight-llm-bench)** [![GitHub stars](https://img.shields.io/github/stars/feniix/hindsight-llm-bench?style=flat&color=gold)](https://github.com/feniix/hindsight-llm-bench) - Benchmark LLMs for individual Hindsight memory operations rather than pick one model for everything.
+- **[backlog-ranker](https://github.com/Spantree/backlog-ranker)** [![GitHub stars](https://img.shields.io/github/stars/Spantree/backlog-ranker?style=flat&color=gold)](https://github.com/Spantree/backlog-ranker) - Rank a GitHub or Linear backlog against a YAML rubric, with TypeSafe's Jev scoring each issue.
 - **[asdf-sops](https://github.com/feniix/asdf-sops)** [![GitHub stars](https://img.shields.io/github/stars/feniix/asdf-sops?style=flat&color=gold)](https://github.com/feniix/asdf-sops) - Install and manage SOPS versions with asdf.
 - **[asdf-helmfile](https://github.com/feniix/asdf-helmfile)** [![GitHub stars](https://img.shields.io/github/stars/feniix/asdf-helmfile?style=flat&color=gold)](https://github.com/feniix/asdf-helmfile) - Install and manage Helmfile versions with asdf.
 
@@ -41,6 +42,7 @@ All articles: [feniix-hq.net/blog](https://feniix-hq.net/blog/) ·
 
 #### Interactive demos
 
+- **[Reranker](https://feniix-hq.net/demos/reranker/)** - Trim a recall query and change the reranker's candidate cap to see which memories make the cut.
 - **[Next token](https://feniix-hq.net/demos/next-token/)** - One prompt through a language model, layer by layer.
 - **[Hindsight Memory Lab](https://feniix-hq.net/demos/hindsight-lab/)** - Retain, recall, and reflect against a live memory graph.
 - **[Weighted decisions](https://feniix-hq.net/demos/weighted-decisions/)** - Change the weights in a decision matrix and see how the preferred option shifts.
